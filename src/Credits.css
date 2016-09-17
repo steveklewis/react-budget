@@ -1,0 +1,8 @@
+.credits {
+  display: flex;
+  flex-direction: column;
+}
+
+.credit {
+  display: flex;
+}

@@ -1,0 +1,8 @@
+.debits {
+  display: flex;
+  flex-direction: column;
+}
+
+.debit {
+  display: flex;
+}
